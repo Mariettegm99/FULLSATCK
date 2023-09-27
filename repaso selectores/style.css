@@ -1,0 +1,72 @@
+/* SLEECTOR DE ELEMENTO */
+h1{
+    color: green;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 4rem;
+
+}
+/* SELECTOR DE CLASE */
+.seccio2{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 5rem;
+    
+}
+/* SELECTOR DE ID */
+#SECCION3{
+    color: blue;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 4rem;
+
+}
+/* SELECTOR DE ATRIBUTO */
+[src="selectores/11641893944_banner_zona_centro.png"] 
+{
+margin: 50px;
+}
+/* SELECTOR DE CADENA DESCENDENTE */
+.seccion5 h4{
+    color: hotpink;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 3rem;
+}
+/* SELECTOR DE TODOS LOS HIJOS */
+.Todos h5{
+    color: yellow;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+/* SELECTOR MULTIPLE */
+.seccion7 h3, .seccion7 h6{
+    color: purple;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 4rem;
+}
+
+.ejercicio1{
+height: 300px;
+background-color: yellow
+}
+
+.ejercicio2{
+height: 100px;
+background-color: blue;
+
+}
+
+.CONTENEDOR{
+
+
+max-width: 88%;
+margin-top: 0%;
+margin-right: auto;
+margin-bottom: 0;
+margin-left: auto;
+}

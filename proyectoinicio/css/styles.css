@@ -6,21 +6,13 @@ html {
 body {
     font-size: 16px;
 }
-
-
-h1 {
-    font-size: 50px;
-    font-family: 'Courier New', Courier, monospace;
-    margin-top: 200px;
-    margin-bottom: 200px;
-    padding-top: 30px;
-    padding-bottom: 100px;
-    color: red;
-    background-color: yellow;
-    text-align: center;
-    text-transform: uppercase;
-    border: 30px solid black;
-    max-width: 60%;
+.info{
+background: rgba(248, 102, 102, 0.65);
+margin-bottom: 10px;
+display: block;
+font-weight: 800;
+padding: 35px;
+color: #fff;
 
 }
 
@@ -38,6 +30,8 @@ h1 {
 
 }
 
+
+
 h6 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-transform: capitalize;
@@ -46,7 +40,8 @@ h6 {
 
 [src="img/11641893944_banner_zona_centro.png"] {
     color: aqua;
-    border: 5rem;
+    border: 6rem;
+
 
 }
 
@@ -58,6 +53,33 @@ h6 {
 
 }
 
+.Locali{
+background-color: black;
+color: white;
+
+
+}
+
+
+
+.CONTENEDOR{
+/* max-width: 88%;
+margin-top: 0%;
+margin-right: auto;
+margin-bottom: 0;
+margin-left: auto; */
+
+
+}
+
+.Fondomain{
+    background-image:url(../img/11641893944_banner_zona_centro.png) ;
+    background-size: cover;
+    padding: 80px 0 180px;
+    background-position: top left;
+}
+
+
 .Ejercicio p{
 color: aqua;
 }
@@ -68,4 +90,18 @@ color: aqua;
 
 ^[src="https://exp014_20_ed_lote5.iformalia.es/Publico/Portal/htmls/AdeccoRedEs/LoginAlumno.aspx"]{
     border: 3rem;
-}
+
+
+
+
+/* ESTILO PARA EL MAIN */
+/* ESTILO PARA LA SECCION DE IMAGEN DE CORPORACIONES */
+/* ESTILO SECCION CURSOS */
+/* ESTILO SECCION PIDENOSLO */
+/* ESTILO SECCION VIDEO */
+/* ESTILO SECCION PARA QUIEN SON ESTOS CURSOS */
+/* ESTILOS LOCALIZACIONES CONTACTAR Y FOOTER; */
+/* ESTILOS HEADER  */
+
+
+
